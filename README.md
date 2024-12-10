@@ -16,23 +16,23 @@ The Toast Notification App is a sleek and interactive web application designed t
 
 ****Custom Notifications:****
 
-    Users can trigger notifications with custom messages dynamically.
+Users can trigger notifications with custom messages dynamically.
 
 ****Auto Disappear:****
 
-    Notifications automatically disappear after a set duration, maintaining a clutter-free UI.
+Notifications automatically disappear after a set duration, maintaining a clutter-free UI.
 
 ****Multiple Notifications:****
 
-    Users can trigger multiple notifications that stack elegantly without overlapping.
+Users can trigger multiple notifications that stack elegantly without overlapping.
 
 ****Visual Appeal:****
 
-    Smooth animations and transitions enhance the app’s visual and functional quality.
+Smooth animations and transitions enhance the app’s visual and functional quality.
 
 ****Responsive Design:****
 
-    The app is optimized for seamless use across devices, including desktops, tablets, and mobile phones.
+The app is optimized for seamless use across devices, including desktops, tablets, and mobile phones.
 
 
 
@@ -45,23 +45,23 @@ Frontend: HTML for structure, CSS for styling, and JavaScript for interactivity.
 
 ****DOM Manipulation:****
 
-    Dynamically creating and removing toast elements.
-    Managing animations using JavaScript and CSS.
+Dynamically creating and removing toast elements.
+Managing animations using JavaScript and CSS.
 ****Event Handling:****
 
-    Handling user actions to trigger notifications.
-    Managing timing and visibility of the notifications.
+Handling user actions to trigger notifications.
+ Managing timing and visibility of the notifications.
 ****CSS Design:****
 
-    Crafting a clean and minimalist UI.
-    Applying animations for smooth transitions and responsiveness.
+Crafting a clean and minimalist UI.
+Applying animations for smooth transitions and responsiveness.
 ****JavaScript Timer Functions:****
 
-    Using setTimeout for auto-dismiss functionality.
-    Managing notification stacking dynamically.
+Using setTimeout for auto-dismiss functionality.
+Managing notification stacking dynamically.
 ****Responsive Design:****
 
-    Ensuring notifications look great across all screen sizes.
+Ensuring notifications look great across all screen sizes.
 
 
 
